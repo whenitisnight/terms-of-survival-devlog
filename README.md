@@ -2,15 +2,16 @@
 
 An original narrative RPG prototype set in a fictional 2035 city, built in Unreal Engine 5.8 with painterly 2.5D scenes.
 
-I want the city to support consequential choices, distinct residents and local motives. The implemented prototype combines exploration, dialogue, evidence, a casebook and travel through authored scenes. Its speculative institutions and technologies belong to the fiction.
+I want the city to remember consequential choices. The latest development checkpoint connects prior outcomes to city standing, later dialogue, resident reactions, persistent injuries and visible aftermath, alongside the existing exploration, evidence, casebook and travel systems.
 
 | Read | Purpose |
 | --- | --- |
-| [Current scope](docs/status.md) | What exists and what remains unfinished |
-| [System structure](docs/architecture.md) | Native interaction, story data and scene resources |
-| [Opening-first decision](case-studies/opening-before-expansion.md) | Why the first 15–20 minutes take priority |
-| [Evidence boundaries](verification/checkpoint.md) | Historical checks and limits |
+| [Current scope](docs/status.md) | Implemented checkpoint and unfinished acceptance |
+| [System structure](docs/architecture.md) | Native interaction, authored data and derived consequences |
+| [Consequences that persist](devlog/2026-11-20-consequences-that-persist.md) | How decisions affect later encounters and presentation |
+| [Latest verification](verification/2026-11-20-consequences.md) | Fresh data, build and native smoke checks |
+| [Opening-first decision](case-studies/opening-before-expansion.md) | Why quality in the existing city remains the priority |
 
-This is a development prototype, not a finished commercial game. The requested final presentation, narrative quality and hour of distinct walking coverage are not established. Implementation and editable assets remain in the private workshop; this public library documents selected decisions from AI-assisted development.
+Development remains paused under the latest handoff; publishing this checkpoint preserves completed work. It is not a finished commercial game. Final presentation, narrative consistency, full-story reliability and requested walking coverage remain unproven. Source and editable assets stay private; this library explains selected decisions from AI-assisted development.
 
 [William Haggard](https://github.com/whenitisnight)
